@@ -1,3 +1,3 @@
 ./autogen.sh
-./configure --enable-static CFLAGS=-fPIC
+./configure CFLAGS=-fPIC
 make -j4
